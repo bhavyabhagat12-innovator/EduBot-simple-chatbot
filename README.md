@@ -12,7 +12,7 @@ Built as a PPS mini project for B.Tech AI & Data Science.
 - Also runs in the terminal
 
 ## Live Demo
-[Try EduBot here](PASTE-YOUR-STREAMLIT-LINK-HERE)
+[Try EduBot here] https://edubot-simple-chatbot-bbi.streamlit.app/
 
 ## Tech Stack
 - Python
